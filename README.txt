@@ -5,3 +5,5 @@ day la readme
  da sua chuasua chua
 
 difftool
+
+merge config
