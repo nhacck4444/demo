@@ -8,4 +8,4 @@ difftool
 merge config
 Anh 3
 
-stasing
+stasings
